@@ -1,0 +1,5 @@
+0 deri koltuk
+1 ceylan derisi
+2 alacantra deri
+3 kumaş deri
+4 suni deri
